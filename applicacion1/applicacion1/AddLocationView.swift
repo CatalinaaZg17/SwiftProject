@@ -54,9 +54,7 @@ struct AddLocationView: View {
                         viewModel.addLocation(country: country, coordinate: location, image: image)
                         showAddLocation = false // Cierra la vista después de guardar
                     }
-                    if let image = selectedImage {
-                        viewModel.addLocation(country: country, coordinate: location, image: image)
-                    }
+                   
                 }
             }
             .sheet(isPresented: $showingImagePicker, onDismiss: loadImage) {
