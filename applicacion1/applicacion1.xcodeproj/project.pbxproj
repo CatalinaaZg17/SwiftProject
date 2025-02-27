@@ -398,6 +398,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"applicacion1/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Se necesita acceso a la cámara para capturar fotos.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Se necesita acceso a tu ubicación para mostrar en el mapa.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Se necesita acceso a la galería para guardar imágenes.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Se necesita acceso a la galería para seleccionar imágenes.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -426,6 +430,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"applicacion1/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Se necesita acceso a la cámara para capturar fotos.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Se necesita acceso a tu ubicación para mostrar en el mapa.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Se necesita acceso a la galería para guardar imágenes.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Se necesita acceso a la galería para seleccionar imágenes.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
