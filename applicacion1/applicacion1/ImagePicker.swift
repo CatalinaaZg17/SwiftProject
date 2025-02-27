@@ -2,7 +2,7 @@
 //  ImagePicker.swift
 //  applicacion1
 //
-//  Created by Oz bibriesca on 2/24/25.
+//  Created by rodrigo on 2/24/25.
 //
 
 import SwiftUI
